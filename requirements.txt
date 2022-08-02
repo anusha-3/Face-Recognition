@@ -1,4 +1,4 @@
 face_recognition
-open-cv
+opencv
 numpy
 streamlit
